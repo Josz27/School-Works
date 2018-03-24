@@ -1,0 +1,10 @@
+C:\Users\aleks\Desktop\Criba Eratóstenes\Criba Eratóstenes\obj\Debug\Criba Eratóstenes.csprojResolveAssemblyReference.cache
+C:\Users\aleks\Desktop\Criba Eratóstenes\Criba Eratóstenes\obj\Debug\Criba_Eratóstenes.Form1.resources
+C:\Users\aleks\Desktop\Criba Eratóstenes\Criba Eratóstenes\obj\Debug\Criba_Eratóstenes.Properties.Resources.resources
+C:\Users\aleks\Desktop\Criba Eratóstenes\Criba Eratóstenes\obj\Debug\Criba Eratóstenes.csproj.GenerateResource.Cache
+C:\Users\aleks\Desktop\Criba Eratóstenes\Criba Eratóstenes\obj\Debug\Criba Eratóstenes.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Criba Eratóstenes\Criba Eratóstenes\bin\Debug\Criba Eratóstenes.exe.config
+C:\Users\aleks\Desktop\Criba Eratóstenes\Criba Eratóstenes\bin\Debug\Criba Eratóstenes.exe
+C:\Users\aleks\Desktop\Criba Eratóstenes\Criba Eratóstenes\bin\Debug\Criba Eratóstenes.pdb
+C:\Users\aleks\Desktop\Criba Eratóstenes\Criba Eratóstenes\obj\Debug\Criba Eratóstenes.exe
+C:\Users\aleks\Desktop\Criba Eratóstenes\Criba Eratóstenes\obj\Debug\Criba Eratóstenes.pdb
