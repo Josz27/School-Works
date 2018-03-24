@@ -1,0 +1,30 @@
+C:\Users\aleks\Desktop\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera Liebre y tortuga.csprojResolveAssemblyReference.cache
+C:\Users\aleks\Desktop\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera_Liebre_y_tortuga.Form1.resources
+C:\Users\aleks\Desktop\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera_Liebre_y_tortuga.Properties.Resources.resources
+C:\Users\aleks\Desktop\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera Liebre y tortuga.csproj.GenerateResource.Cache
+C:\Users\aleks\Desktop\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera Liebre y tortuga.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Carrera Liebre y tortuga\Carrera Liebre y tortuga\bin\Debug\Carrera Liebre y tortuga.exe.config
+C:\Users\aleks\Desktop\Carrera Liebre y tortuga\Carrera Liebre y tortuga\bin\Debug\Carrera Liebre y tortuga.exe
+C:\Users\aleks\Desktop\Carrera Liebre y tortuga\Carrera Liebre y tortuga\bin\Debug\Carrera Liebre y tortuga.pdb
+C:\Users\aleks\Desktop\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera Liebre y tortuga.exe
+C:\Users\aleks\Desktop\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera Liebre y tortuga.pdb
+C:\Users\cesar\Downloads\Nueva carpeta (2)\Carrera Liebre y tortuga\Carrera Liebre y tortuga\bin\Debug\Carrera Liebre y tortuga.exe.config
+C:\Users\cesar\Downloads\Nueva carpeta (2)\Carrera Liebre y tortuga\Carrera Liebre y tortuga\bin\Debug\Carrera Liebre y tortuga.exe
+C:\Users\cesar\Downloads\Nueva carpeta (2)\Carrera Liebre y tortuga\Carrera Liebre y tortuga\bin\Debug\Carrera Liebre y tortuga.pdb
+C:\Users\cesar\Downloads\Nueva carpeta (2)\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera Liebre y tortuga.csprojResolveAssemblyReference.cache
+C:\Users\cesar\Downloads\Nueva carpeta (2)\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera_Liebre_y_tortuga.Form1.resources
+C:\Users\cesar\Downloads\Nueva carpeta (2)\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera_Liebre_y_tortuga.Properties.Resources.resources
+C:\Users\cesar\Downloads\Nueva carpeta (2)\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera Liebre y tortuga.csproj.GenerateResource.Cache
+C:\Users\cesar\Downloads\Nueva carpeta (2)\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera Liebre y tortuga.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Downloads\Nueva carpeta (2)\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera Liebre y tortuga.exe
+C:\Users\cesar\Downloads\Nueva carpeta (2)\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera Liebre y tortuga.pdb
+C:\Users\aleks\Documents\A Escuela\Carrera Liebre y tortuga\Carrera Liebre y tortuga\bin\Debug\Carrera Liebre y tortuga.exe.config
+C:\Users\aleks\Documents\A Escuela\Carrera Liebre y tortuga\Carrera Liebre y tortuga\bin\Debug\Carrera Liebre y tortuga.exe
+C:\Users\aleks\Documents\A Escuela\Carrera Liebre y tortuga\Carrera Liebre y tortuga\bin\Debug\Carrera Liebre y tortuga.pdb
+C:\Users\aleks\Documents\A Escuela\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera Liebre y tortuga.csprojResolveAssemblyReference.cache
+C:\Users\aleks\Documents\A Escuela\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera_Liebre_y_tortuga.Form1.resources
+C:\Users\aleks\Documents\A Escuela\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera_Liebre_y_tortuga.Properties.Resources.resources
+C:\Users\aleks\Documents\A Escuela\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera Liebre y tortuga.csproj.GenerateResource.Cache
+C:\Users\aleks\Documents\A Escuela\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera Liebre y tortuga.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Documents\A Escuela\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera Liebre y tortuga.exe
+C:\Users\aleks\Documents\A Escuela\Carrera Liebre y tortuga\Carrera Liebre y tortuga\obj\Debug\Carrera Liebre y tortuga.pdb
