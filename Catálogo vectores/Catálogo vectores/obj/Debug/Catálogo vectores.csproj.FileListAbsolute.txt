@@ -1,0 +1,10 @@
+C:\Users\aleks\Desktop\Catálogo vectores\Catálogo vectores\bin\Debug\Catálogo vectores.exe.config
+C:\Users\aleks\Desktop\Catálogo vectores\Catálogo vectores\bin\Debug\Catálogo vectores.exe
+C:\Users\aleks\Desktop\Catálogo vectores\Catálogo vectores\bin\Debug\Catálogo vectores.pdb
+C:\Users\aleks\Desktop\Catálogo vectores\Catálogo vectores\obj\Debug\Catálogo vectores.csprojResolveAssemblyReference.cache
+C:\Users\aleks\Desktop\Catálogo vectores\Catálogo vectores\obj\Debug\Catálogo_vectores.Form1.resources
+C:\Users\aleks\Desktop\Catálogo vectores\Catálogo vectores\obj\Debug\Catálogo_vectores.Properties.Resources.resources
+C:\Users\aleks\Desktop\Catálogo vectores\Catálogo vectores\obj\Debug\Catálogo vectores.csproj.GenerateResource.Cache
+C:\Users\aleks\Desktop\Catálogo vectores\Catálogo vectores\obj\Debug\Catálogo vectores.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Catálogo vectores\Catálogo vectores\obj\Debug\Catálogo vectores.exe
+C:\Users\aleks\Desktop\Catálogo vectores\Catálogo vectores\obj\Debug\Catálogo vectores.pdb
